@@ -16,6 +16,7 @@ public class Operacion {
      * @return Array de String en cuyo cada componente sera un fraccion de la cadena otorgada 
      */
     public String[] separador(String oracion){
+        //ola mijos
         String[] resultado=oracion.split("-");
         return resultado;
         
